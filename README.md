@@ -1,6 +1,6 @@
 Realtime ChatApp
 
-Description
+**Description:**
 
 Realtime ChatApp is a real-time chat application that allows users to connect and chat instantly with friends, family, or colleagues. It leverages the power of Node.js and Socket.IO to provide a seamless communication experience for multiple users simultaneously.
 
