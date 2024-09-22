@@ -7,8 +7,11 @@ Realtime ChatApp is a real-time chat application that allows users to connect an
 Features
 
 Real-time Messaging: Enjoy instant, real-time chat without delays.
+
 Multiple Users: Supports multiple users joining and interacting in the chat room.
+
 Instant Notifications: Receive live updates when new users join or leave the chat.
+
 Scalable: Built with scalability in mind, ideal for real-world applications.
 
 Installation
