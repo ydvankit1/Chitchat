@@ -1,10 +1,12 @@
 **Realtime ChatApp**
 
-**Description:**
+
+**1.Description:**
 
 Realtime ChatApp is a real-time chat application that allows users to connect and chat instantly with friends, family, or colleagues. It leverages the power of Node.js and Socket.IO to provide a seamless communication experience for multiple users simultaneously.
 
-**Features:**
+
+**2.Features:**
 
 **Real-time Messaging**: Enjoy instant, real-time chat without delays.
 
@@ -14,7 +16,8 @@ Realtime ChatApp is a real-time chat application that allows users to connect an
 
 **Scalable:** Built with scalability in mind, ideal for real-world applications.
 
-**Installation:**
+
+**3.Installation:**
 
 To set up your development environment and run the application, follow these steps:
 
@@ -26,13 +29,15 @@ Install the necessary dependencies:
 npm install
 Running the Application
 
-**To start the chat application's server:**
+
+**4.To start the chat application's server:**
 
 Run the following command to start the server:
 npm start
 Open your browser and navigate to http://localhost:3000 to access the chat app.
 
-**Usage:**
+
+**5.Usage:**
 
 Open the app in your browser.
 Enter a username to join the chat room.
