@@ -38,7 +38,7 @@ npm start
 Open your browser and navigate to http://localhost:3000 to access the chat app.
 
 
-**5.Usage:**
+**5.Steps for Usage:**
 
 Open the app in your browser.
 Enter a username to join the chat room.
